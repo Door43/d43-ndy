@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ndy:home|Door43 (ndy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ndy|d43-ndy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ndy/archive/master.zip|d43-ndy.zip]]
+
+**Recent Changes**
+{{changes>ns = ndy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ndy|Ethnologue data]]
+
